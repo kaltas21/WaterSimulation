@@ -1,0 +1,36 @@
+# Build directories
+build/
+bin/
+lib/
+
+# VS Code
+.vscode/compile_commands.json
+.vscode
+
+# macOS
+.DS_Store
+*.dSYM
+
+# Windows
+*.dll
+*.exe
+*.pdb
+*.ilk
+
+# Object files
+*.o
+*.obj
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# ImGui
+imgui.ini
+
+# Claude
+.claude
+CLAUDE.md
+
